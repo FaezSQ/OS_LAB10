@@ -1,9 +1,8 @@
-
 # Installation Guide for Raspberry Pi in QEMU on Kali/Debian Linux
 
 Please note that the following guide is a general outline and may require adjustments based on your specific setup.
 
-# # Install QEMU:
+## Install QEMU:
 
 ### sql
 Copy code
@@ -18,7 +17,7 @@ Download the "kernel-qemu-4.19.50-buster" and "versatile-pb-buster.dtb" files fr
 Set up the Virtual Machine (VM) in Virtual Machine Manager (Virt-Manager):
 Open Virt-Manager with the following command:
 
-### ruby
+ruby
 Copy code
 $ sudo virt-manager
 Click on "Create a new virtual machine."
@@ -48,7 +47,7 @@ Optionally, you can add additional hardware such as a random number generator (R
 Click "Begin Installation" to start the VM and begin the installation process.
 Inside the VM:
 
-### Log in using the default credentials:
+Log in using the default credentials:
 Login: pi
 Password: raspberry
 Run the following command to configure the OS using the Raspberry Pi configuration tool:
