@@ -64,3 +64,15 @@ $ sudo apt install qemu-guest-agent
 
 ## All done:
 At this point, you should have successfully installed Raspberry Pi in QEMU on your Kali/Debian Linux system. Adjustments may be needed based on your specific requirements.
+
+# OUTPUT SCREENSHOTS
+
+## QEMU INSTALLATION PROCESS
+![image](https://github.com/FaezSQ/OS_LAB10/assets/123714138/4946d811-9397-45f4-a035-943b36ee6b89)
+
+## Raspberry PI LITE INSTALLATION PROCESS
+![image](https://github.com/FaezSQ/OS_LAB10/assets/123714138/dc570092-45d9-45e2-828c-cf144aea325e)
+
+## CLI SCREEN
+![image](https://github.com/FaezSQ/OS_LAB10/assets/123714138/c5d06a81-5555-4805-baae-0ea4b2cce849)
+
